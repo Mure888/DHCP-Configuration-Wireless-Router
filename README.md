@@ -1,6 +1,3 @@
-# DHCP-Configuration-Wireless-Router
-Navigating between static and dynamic IP addressing using DHCP.
-
 # Dynamic Host Configuration Protocol (DHCP) on a Wireless Router
 
 This lab demonstrates transitioning from static network assumptions to automated dynamic host configuration using DHCP. The project covers configuring a home wireless router's internal DHCP scope, modifying local subnet addressing, updating client lease reservations, and verifying automated IP distribution and end-to-end ICMP connectivity across multiple client endpoints.
